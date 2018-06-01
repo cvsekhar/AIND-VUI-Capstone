@@ -1428,3 +1428,15 @@ Free memory: 11.11GiB
 [I 18:12:25.616 NotebookApp] Saving file at /vui_notebook.ipynb
 [I 18:14:25.615 NotebookApp] Saving file at /vui_notebook.ipynb
 [I 18:15:36.621 NotebookApp] Saving file at /vui_notebook.ipynb
+[I 18:20:04.530 NotebookApp] 302 GET / (65.28.188.68) 0.42ms
+[I 18:20:09.144 NotebookApp] 302 GET /notebooks/images/pipeline.png (65.28.188.68) 0.84ms
+[I 18:20:09.473 NotebookApp] 302 GET /notebooks/images/simple_rnn.png (65.28.188.68) 0.90ms
+[I 18:20:09.475 NotebookApp] 302 GET /notebooks/images/simple_rnn_unrolled.png (65.28.188.68) 0.62ms
+[I 18:20:09.623 NotebookApp] 302 GET /notebooks/images/rnn_model.png (65.28.188.68) 0.88ms
+[I 18:20:09.624 NotebookApp] 302 GET /notebooks/images/rnn_model_unrolled.png (65.28.188.68) 0.61ms
+[I 18:20:09.727 NotebookApp] 302 GET /notebooks/images/cnn_rnn_model.png (65.28.188.68) 0.87ms
+[I 18:20:09.771 NotebookApp] 302 GET /notebooks/images/deep_rnn_model.png (65.28.188.68) 0.70ms
+[I 18:20:09.851 NotebookApp] 302 GET /notebooks/images/bidirectional_rnn_model.png (65.28.188.68) 0.64ms
+[I 18:20:10.527 NotebookApp] Adapting to protocol v5.1 for kernel d1f47e6a-d323-4fce-902f-c7bf04a7ea40
+[I 18:21:45.375 NotebookApp] Saving file at /vui_notebook.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
