@@ -1440,3 +1440,24 @@ Free memory: 11.11GiB
 [I 18:20:10.527 NotebookApp] Adapting to protocol v5.1 for kernel d1f47e6a-d323-4fce-902f-c7bf04a7ea40
 [I 18:21:45.375 NotebookApp] Saving file at /vui_notebook.ipynb
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 18:23:45.846 NotebookApp] Serving notebooks from local directory: /home/ubuntu/AIND-VUI-Capstone
+[I 18:23:45.846 NotebookApp] 0 active kernels
+[I 18:23:45.847 NotebookApp] The Jupyter Notebook is running at:
+[I 18:23:45.847 NotebookApp] http://0.0.0.0:8888/?token=1cb4c7713c3a3feeb59e0f642d7cd5f04b2bbcc653e34c41
+[I 18:23:45.847 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:23:45.847 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8888/?token=1cb4c7713c3a3feeb59e0f642d7cd5f04b2bbcc653e34c41
+[I 18:24:53.234 NotebookApp] 302 GET / (65.28.188.68) 0.55ms
+[I 18:24:57.296 NotebookApp] 302 GET /notebooks/images/pipeline.png (65.28.188.68) 0.88ms
+[I 18:24:57.644 NotebookApp] 302 GET /notebooks/images/simple_rnn.png (65.28.188.68) 0.90ms
+[I 18:24:57.645 NotebookApp] 302 GET /notebooks/images/simple_rnn_unrolled.png (65.28.188.68) 0.62ms
+[I 18:24:57.773 NotebookApp] 302 GET /notebooks/images/rnn_model.png (65.28.188.68) 0.69ms
+[I 18:24:57.774 NotebookApp] 302 GET /notebooks/images/rnn_model_unrolled.png (65.28.188.68) 0.61ms
+[I 18:24:57.860 NotebookApp] 302 GET /notebooks/images/cnn_rnn_model.png (65.28.188.68) 0.74ms
+[I 18:24:57.929 NotebookApp] 302 GET /notebooks/images/deep_rnn_model.png (65.28.188.68) 0.84ms
+[I 18:24:58.010 NotebookApp] 302 GET /notebooks/images/bidirectional_rnn_model.png (65.28.188.68) 0.83ms
+[I 18:24:58.524 NotebookApp] Kernel started: cc9b62b6-45bc-4266-a205-b228e5111510
+[I 18:24:59.164 NotebookApp] Adapting to protocol v5.1 for kernel cc9b62b6-45bc-4266-a205-b228e5111510
